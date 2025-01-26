@@ -1,0 +1,36 @@
+[33mcommit 0670ef48c1a19c0c062454d5505a5e64b191520a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Deepthibolishetty39 <deepthibolishetty@gmail.com>
+Date:   Sat Jan 25 19:39:52 2025 +0530
+
+    first commit
+
+[33mcommit 41894d7ce208e5f57b20a25beede0bc428a76609[m
+Merge: 0967b1f 3999e40
+Author: satishccy <satishchoudhari13579@gmail.com>
+Date:   Tue Jan 7 10:03:27 2025 +0530
+
+    Merge branch 'main' of https://github.com/satishccy/simple-voting-dapp
+
+[33mcommit 0967b1fa694a172d62c62ceaaf9a0c3ba6ee1881[m
+Author: satishccy <satishchoudhari13579@gmail.com>
+Date:   Tue Jan 7 10:03:24 2025 +0530
+
+    prod build
+
+[33mcommit 3999e409230801619d99d15261b1abd198c27b52[m
+Author: Satish Chandra Chowdary Y <110321560+satishccy@users.noreply.github.com>
+Date:   Tue Jan 7 10:00:12 2025 +0530
+
+    Create main.yml
+
+[33mcommit 2d95816334c9214e37e417dfd122b6295a935183[m
+Author: satishccy <satishchoudhari13579@gmail.com>
+Date:   Tue Jan 7 09:57:14 2025 +0530
+
+    initial commit
+
+[33mcommit 32361620d83ec0bfefcf8e2b949e370bf5d381ce[m
+Author: satishccy <satishchoudhari13579@gmail.com>
+Date:   Tue Jan 7 01:54:15 2025 +0530
+
+    Project initialised with AlgoKit CLI using template: https://github.com/algorandfoundation/algokit-fullstack-template.git
